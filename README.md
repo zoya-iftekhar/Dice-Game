@@ -25,5 +25,5 @@ To get started with the Dice Roll Game, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/dice-roll-game.git
-   cd dice-roll-game
+   https://github.com/zoya-iftekhar/Dice-Game.git
+   cd main.py
