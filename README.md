@@ -26,4 +26,7 @@ To get started with the Dice Roll Game, follow these steps:
 
    ```bash
    https://github.com/zoya-iftekhar/Dice-Game.git
-   cd main.py
+1. **Open the file:**
+
+   ```bash
+  cd main.py
